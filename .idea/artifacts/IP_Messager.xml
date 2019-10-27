@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IP Messager">
+    <output-path>$PROJECT_DIR$/out/artifacts/IP_Messager</output-path>
+    <root id="archive" name="IP Messager.jar">
+      <element id="module-output" name="IP Messager" />
+    </root>
+  </artifact>
+</component>
